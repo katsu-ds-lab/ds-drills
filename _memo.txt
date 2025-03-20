@@ -77,7 +77,6 @@ katsu データサイエンスラボ
 katsu データサイエンス・ラボ
 katsu DS実践ラボ
 katsu DSラボ
-Katsu Data Science Lab
 Katsu データサイエンス Lab
 Katsu データサイエンス実践ラボ
 Katsu DS 実践ラボ（「データサイエンス」の略を使う）
@@ -87,6 +86,35 @@ Katsu DS Academy
 
 [R+SQL] データサイエンス100本ノック＋α (標準編) R-029
 [R+SQL] データサイエンス実践ドリル (標準編)
+
+無料コンテンツ：
+[R & SQL] データサイエンス100本ノック＋α
+[R & SQL] Data Science Practice Drills - Free Edition
+https://katsu-ds-lab.com/ds-drills/free/
+
+有料コンテンツ：
+[R & SQL] データサイエンス実践ドリル
+[R & SQL] Data Science Practice Drills - Premium Edition
+https://katsu-ds-lab.com/ds-drills/premium/
+
+* セット販売 (5問)
+データサイエンス実践ドリル Vol. 1
+[R & SQL] Data Science Practice Drills Vol. 1
+https://katsu-ds-lab.com/ds-drills/vol-1/
+
+他の候補
+official: [R & SQL] データサイエンス100本ノック＋α
+basic   : [R & SQL] データサイエンス実践ドリル - ベーシック版
+master  : [R & SQL] データサイエンス実践ドリル - マスター版
+(オリジナル問題)
+
+[R & SQL] Data Science Practice Drills - Sample
+[R & SQL] Data Science Practice Drills - Sample 30
+[R & SQL] Data Science 30 Sample Exercises
+[R & SQL] Data Science 30 Free Challenges
+[R & SQL] Data Science Practice Drills - Sample Edition
+[R & SQL] Data Science Practice Drills - Extended Edition
+[R & SQL] Data Science Practice Drills - Premium Edition
 
 [R & SQL] データサイエンス実践ドリル - 公式版
 [R & SQL] データサイエンス実践ドリル - ベーシック版

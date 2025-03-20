@@ -50,7 +50,7 @@ tryCatch(
     work_dir_path = init_path |> dirname()
     work_dir_path |> setwd()
     sprintf("Working directory: \n%s\n\n", getwd()) |> cat()
-    #> "your_directory_path/work"
+    #> ".../ds-drills/work"
     # 各スクリプトの実行 ------------
     safe_source("env_setup.R")
     safe_source("functions.R")

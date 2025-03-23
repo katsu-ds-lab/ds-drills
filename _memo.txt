@@ -82,25 +82,33 @@ Katsu データサイエンス実践ラボ
 Katsu DS 実践ラボ（「データサイエンス」の略を使う）
 Katsu DS Academy
 
-* 演習問題タイトル
-
-[R+SQL] データサイエンス100本ノック＋α (標準編) R-029
-[R+SQL] データサイエンス実践ドリル (標準編)
+* 演習問題タイトル, URL
 
 無料コンテンツ：
 [R & SQL] データサイエンス100本ノック＋α
-[R & SQL] Data Science Practice Drills - Free Edition
+[R & SQL] 30 Free Data Science Drills for Data Transformation
 https://katsu-ds-lab.com/ds-drills/free/
 
 有料コンテンツ：
 [R & SQL] データサイエンス実践ドリル
-[R & SQL] Data Science Practice Drills - Premium Edition
+[R & SQL] Data Science Practice Drills for Data Transformation
 https://katsu-ds-lab.com/ds-drills/premium/
 
-* セット販売 (5問)
+セット販売 (5問)
 データサイエンス実践ドリル Vol. 1
-[R & SQL] Data Science Practice Drills Vol. 1
+[R & SQL] Data Science Practice Drills for Data Transformation Vol. 1
 https://katsu-ds-lab.com/ds-drills/vol-1/
+
+個別問題: 
+[R & SQL] データサイエンス実践ドリル A-001
+[R & SQL] Data Science Practice Drills for Data Transformation A-001
+
+30 Free Exercises
+30 Free Problems
+30 Free Practice Problems
+30 Free Challenges：無料で挑戦できる問題集としての表現
+
+ds-drills/data-tf
 
 他の候補
 official: [R & SQL] データサイエンス100本ノック＋α
@@ -108,29 +116,24 @@ basic   : [R & SQL] データサイエンス実践ドリル - ベーシック版
 master  : [R & SQL] データサイエンス実践ドリル - マスター版
 (オリジナル問題)
 
-[R & SQL] Data Science Practice Drills - Sample
-[R & SQL] Data Science Practice Drills - Sample 30
+[R & SQL] Data Science Practice Drills for Data Transformation
+[R & SQL] Data Transformation Practice Drills
+
+[R & SQL] 30 Free Data Science Challenges for Data Transformation
+[R & SQL] Data Science 30 Free Challenges For Data Transformation
 [R & SQL] Data Science 30 Sample Exercises
-[R & SQL] Data Science 30 Free Challenges
-[R & SQL] Data Science Practice Drills - Sample Edition
 [R & SQL] Data Science Practice Drills - Extended Edition
 [R & SQL] Data Science Practice Drills - Premium Edition
+[R & SQL] Data Science Practice Drills - Sample Edition
+[R & SQL] Data Science Practice Drills - Sample
+[R & SQL] Data Science Practice Drills - Sample 30
 
-[R & SQL] データサイエンス実践ドリル - 公式版
+[R & SQL] データサイエンス実践ドリル - 公式版 -> X
 [R & SQL] データサイエンス実践ドリル - ベーシック版
 [R & SQL] データサイエンス実践ドリル - マスター版
-[R & SQL] Data Science Practice Drills - Official Edition
+[R & SQL] Data Science Practice Drills - Official Edition -> X
 [R & SQL] Data Science Practice Drills - Basic Edition
 [R & SQL] Data Science Practice Drills - Master Edition
-
-Data Science Practice Drill
-
-[R & SQL] データサイエンス実践ドリル - 公式版 R-029
-[R & SQL] データサイエンス実践ドリル - ベーシック版 B-001
-[R & SQL] データサイエンス実践ドリル - マスター版 M-012
-[R & SQL] Data Science Practical Drill - Official Edition R-029
-[R & SQL] Data Science Practical Drill - Basic Edition B-001
-[R & SQL] Data Science Practical Drill - Master Edition M-012
 
 参考：
 [R & SQL] データサイエンス実践ドリル (データ加工編) - 公式版
@@ -138,13 +141,6 @@ Data Science Practice Drill
 [R & SQL] Data Science Drill - Official Edition
 [R & SQL] Data Science Drill - Basic Edition
 [R & SQL] Data Science Drill - Master Edition
-
-[R+SQL] Data Science Practical Drill - Official Edition
-[R+SQL] Data Science Practical Drill - Original Edition
-
-【無料・有料】
-体験版 + 応用版
-ベーシック版、マスター版
 
 # [R+SQL] データサイエンス実践ドリル - 標準問題集
 [R+SQL] データサイエンス実践ドリル - 公式問題集
@@ -163,25 +159,11 @@ Data Science Practice Drill
 [R+SQL] データサイエンス実践ドリル (データ加工編) - 標準問題集
 [R+SQL] データサイエンス実践ドリル (データ加工編) - 発展問題集
 
-[R+SQL] Data Science Practical Drill (Data Processing) - Standard Problems
-[R+SQL] Data Science Practical Drill (Data Processing) - Advanced Problems
-[R+SQL] Data Science Practical Drill (Data Processing) - Standard Problem R-029
-
-データサイエンス実践問題集
-データサイエンス実践ドリル
-
-Data Science Practice Drills
-
 体系的に学びながら問題を解きたい場合は、「データサイエンス実践問題集」が適切です。
 反復練習や実践的なスキル向上を重視した内容であれば、「データサイエンス実践ドリル」の方がより適切です。
 体系的な学習を目指さず、特定の技術やスキルを実際に練習するための問題集という印象を持たせるために「ドリル」を使うのが良いでしょう。
 
-データサイエンス実践ドリル | Practical Data Science Drills
-データサイエンス実践問題集 | Data Science Practice Drills
 データサイエンスチャレンジ＋α | Data Science Challenge + Extra
-
-Data Science Drill Book
-Data Science Exercises for Practice
 Data Science Challenges & Drills
 
 【R+SQL】データサイエンス100本ノック＋αでスキルアップ - 標準編
@@ -189,11 +171,6 @@ Data Science Challenges & Drills
 
 【R+SQL】データサイエンス100本ノック＋α - 標準編
 【R+SQL】データサイエンス100本ノック＋α - 発展編
-【R+SQL】データサイエンス100本ノック＋α - 標準編 R-028
-【R+SQL】データサイエンス100本ノック＋α - 発展編 A-001
-
-標準編: Standard Edition
-上級編、発展編: Advanced Edition
 
 # 公式編, 発展編
 # 標準編, スタンダード編, 基本編, ベーシック編, 練習編

@@ -35,7 +35,8 @@ df_geocode = "geocode.csv" %>% my_vroom(col_types = "cccccccnn")
 # データベース・コネクションの作成 ------------
 
 is_fbmode = TRUE  # ファイルベースモードで作成する場合
-# is_fbmode = FALSE # インメモリモードで一時的に作成する場合
+# 一時的にメモリ上に作成する場合は, 以下の行のコメントアウトを外してください.
+# is_fbmode = FALSE
 
 if (is_fbmode) {
   # DuckDB データベースファイルのパス
